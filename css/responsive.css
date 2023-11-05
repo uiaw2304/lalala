@@ -1,0 +1,51 @@
+@media (max-width: 575.98px) {
+    /* -============ banner part ==================== */
+    .banner_text h1 {
+        width: 100%;
+        font-size: 25px;
+    }
+    .banner_text p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .banner_src {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    /* -============ Travel Benefit part ==================== */
+    .travel_head h2 {
+        font-size: 20px;
+    }
+    .travel_head p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .travel_item {
+        width: 100%;
+    }
+    .item_text p {
+        width: 100%;
+        font-size: 12px;
+    }
+    /* -============ banner part ==================== */
+    .popular_destination_head h2 {
+        font-size: 20px;
+    }
+    .popular_destination_head p {
+        width: 100%;
+        font-size: 12px;
+    }
+    /* -============ banner part ==================== */
+    /* -============ banner part ==================== */
+    /* -============ banner part ==================== */
+    /* -============ banner part ==================== */
+
+
+
+
+
+ }
+@media (min-width: 768px) and (max-width: 1199.98px) {}
+@media (min-width: 768px) and (max-width: 1199.98px) { }
+@media (min-width: 768px) and (max-width: 1199.98px) {  }
+@media (min-width: 768px) and (max-width: 1199.98px) {  }
